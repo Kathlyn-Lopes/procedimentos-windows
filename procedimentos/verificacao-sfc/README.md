@@ -94,6 +94,11 @@ Caso a ferramenta informe que não conseguiu reparar determinados arquivos, o di
 
 ## 🔗 Referência
 
-**System File Checker (SFC)** — ferramenta nativa do Microsoft Windows.
+**System File Checker (SFC) — Microsoft Windows**
 
-Para informações atualizadas sobre utilização, resultados e procedimentos de reparo, consulte a documentação oficial da Microsoft.
+* **Documentação oficial:** [Usando o Verificador de Arquivos do Sistema no Windows](https://support.microsoft.com/pt-BR/Windows/Experience/backup-recovery/using-system-file-checker-in-windows)
+
+O SFC é uma ferramenta nativa do Microsoft Windows utilizada para verificar arquivos protegidos do sistema e auxiliar na correção de problemas relacionados a arquivos corrompidos.
+
+Esta documentação registra um procedimento utilizado em atividades práticas de manutenção e suporte. Para orientações atualizadas, consulte sempre a documentação oficial da Microsoft.
+
