@@ -20,7 +20,11 @@ Os conteúdos podem envolver:
 
 ## 📚 Procedimentos documentados
 
-Os procedimentos serão adicionados a este repositório conforme forem realizados e documentados.
+| Procedimento | Descrição |
+|---|---|
+| [Manutenção e ajustes do Windows com WinUtil](procedimentos/otimizacao-winutil/) | Utilização do WinUtil para análise e aplicação de ajustes em ambiente Windows. |
+
+> Novos procedimentos serão adicionados conforme forem realizados e documentados.
 
 ## 🧠 Conhecimentos relacionados
 
