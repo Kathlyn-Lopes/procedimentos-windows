@@ -24,6 +24,8 @@ Os conteúdos podem envolver:
 |---|---|
 | [Manutenção e ajustes do Windows com WinUtil](procedimentos/otimizacao-winutil/) | Utilização do WinUtil para análise e aplicação de ajustes em ambiente Windows. |
 | [Verificação e reparo de arquivos do sistema com DISM e SFC](procedimentos/verificacao-sfc/) | Utilização de ferramentas nativas do Windows para verificação da integridade e reparo de componentes e arquivos protegidos do sistema. |
+| [Verificação de disco com CHKDSK](procedimentos/verificacao-chkdsk/) | Utilização do CHKDSK para verificação do sistema de arquivos, identificação de erros e análise da integridade da unidade. |
+
 > Novos procedimentos serão adicionados conforme forem realizados e documentados.
 
 ## 🧠 Conhecimentos relacionados
