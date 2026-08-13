@@ -20,6 +20,58 @@ Durante a utilização do WinUtil, explorei recursos relacionados a:
 * recursos relacionados ao consumo de memória e processamento;
 * manutenção e organização do ambiente Windows.
 
+
+## 💻 Como realizar o procedimento
+
+### 1. Abrir o Terminal como administrador
+
+No Windows:
+
+* clique com o botão direito no menu **Iniciar**;
+* selecione **Terminal (Admin)** ou **Windows PowerShell (Admin)**.
+
+Outra opção é pesquisar por `PowerShell` ou `Terminal` e utilizar **Ctrl + Shift + Enter** para executar como administrador.
+
+> O WinUtil requer privilégios administrativos para realizar alterações no sistema.
+
+### 2. Executar o WinUtil
+
+No Terminal ou PowerShell aberto como administrador, execute o comando da versão estável:
+
+```powershell
+irm https://christitus.com/win | iex
+```
+
+Aguarde a inicialização da interface do WinUtil.
+
+### 3. Analisar as opções disponíveis
+
+Antes de aplicar alterações, revise as opções disponibilizadas pela ferramenta e avalie quais configurações são adequadas ao ambiente.
+
+O WinUtil disponibiliza recursos relacionados a instalação de programas, ajustes do Windows, configurações, atualizações e outras tarefas de manutenção.
+
+> Evite aplicar configurações sem compreender previamente o impacto que elas podem causar no sistema.
+
+### 4. Aplicar as configurações
+
+Selecione somente os ajustes que foram previamente analisados e são adequados ao objetivo da manutenção.
+
+A ferramenta também disponibiliza configurações predefinidas (*presets*). A escolha deve considerar as necessidades do ambiente e os efeitos das alterações propostas.
+
+### 5. Reiniciar e validar o ambiente
+
+Após concluir as alterações:
+
+1. reinicie o computador quando necessário;
+2. verifique a inicialização do Windows;
+3. valide o funcionamento dos aplicativos utilizados;
+4. verifique conectividade e recursos necessários;
+5. observe o comportamento e o consumo de recursos do sistema;
+6. confirme se as alterações realizadas não afetaram funcionalidades necessárias.
+
+Caso seja identificado algum comportamento inesperado, as alterações realizadas devem ser revisadas antes de novas modificações.
+
+
 ## 🔎 Validação
 
 Após as alterações, acompanhei o comportamento do computador para observar os efeitos das configurações aplicadas e verificar o funcionamento do ambiente.
