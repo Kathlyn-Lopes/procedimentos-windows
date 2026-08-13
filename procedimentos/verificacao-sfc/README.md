@@ -24,6 +24,23 @@ sfc /scannow
 
 ### 1. Abrir o Prompt de Comando como administrador
 
+### 2. Verificar e reparar a imagem do Windows com DISM
+
+Antes de executar o SFC, utilize o **Deployment Image Servicing and Management (DISM)** para verificar e reparar, quando necessário, os componentes da imagem do Windows utilizados no processo de reparo.
+
+No Prompt de Comando aberto como administrador, execute:
+
+```cmd
+DISM.exe /Online /Cleanup-Image /RestoreHealth
+```
+
+Pressione **Enter** e aguarde a conclusão do processo.
+
+> O procedimento pode levar alguns minutos. Não feche o Prompt de Comando durante a execução.
+
+Após a conclusão do DISM, prossiga para a verificação dos arquivos protegidos do sistema com o SFC.
+
+
 No Windows:
 
 1. abra o menu **Iniciar**;
