@@ -102,5 +102,11 @@ Alterações em configurações do sistema operacional devem ser avaliadas antes
 
 **WinUtil — Chris Titus Tech's Windows Utility**
 
-O WinUtil é uma ferramenta open source de terceiros e não foi desenvolvido por mim. Esta documentação registra exclusivamente minha utilização da ferramenta em ambiente próprio.
+* **Projeto original:** [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+* **Documentação oficial:** [Chris Titus Tech — WinUtil](https://christitus.com/windows-tool/)
+
+O WinUtil é uma ferramenta open source de terceiros e não foi desenvolvido por mim.
+
+Esta documentação registra o procedimento realizado em meu próprio ambiente e não substitui a documentação oficial do projeto. Para informações atualizadas sobre comandos, funcionalidades e alterações da ferramenta, consulte as referências oficiais acima.
+
 
